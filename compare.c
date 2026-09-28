@@ -14,6 +14,9 @@ int main ()
         {
 		printf("%d\n", b);
 	}
+		else if (a = b && b = c) {
+			printf("Equal values");
+		}
 	else {
 		printf("%d\n",c);
 	}	
